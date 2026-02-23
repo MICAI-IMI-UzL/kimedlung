@@ -40,18 +40,25 @@ Please refer to our work:
 
 ```
 Sofija Engelson, Yannic Elser, Malte Maria Sieren, Jan Ehrhardt, Julia Andresen, Stefanie Schierholz, Tobias Keck, 
-Daniel Drömann, Jörg Barkhausen, Heinz Handels (2026). Deep learning-based mediastinal lymph node
-assessment on PET/CT images without pixel-level annotations. Journal of Medical Imaging.
+Daniel Drömann, Jörg Barkhausen, Heinz Handels, "Deep learning-based mediastinal lymph node assessment on PET/CT images 
+without pixel-level annotations," J. Med. Imag. 13(1) 014507 (18 February 2026) 
+https://doi.org/10.1117/1.JMI.13.1.014507
 ```
 
 BibTex citation:
 ```
-@article{jmi_2026_engelson,
-    title = "Deep learning-based mediastinal lymph node assessment on PET/CT images without pixel-level annotations",
-    author = "Engelson, Sofija and Elser, Yannic, and Sieren, Malte Maria and Ehrhardt, Jan and Andresen, Julia and
-              Schierholz, Stefanie and Keck, Tobias and Drömann, Daniel and Barkhausen, Jörg and Handels, Heinz",
-    journal = "Journal of Medical Imaging",
-    year = "2026",
+@article{10.1117/1.JMI.13.1.014507,
+    author = {Sofija Engelson and Yannic Elser and Malte Maria Sieren and Jan Ehrhardt and Julia Andresen and Stefanie Schierholz and Tobias Keck and Daniel Dr{\"o}mann and J{\"o}rg Barkhausen and Heinz Handels},
+    title = {{Deep learning-based mediastinal lymph node assessment on PET/CT images without pixel-level annotations}},
+    volume = {13},
+    journal = {Journal of Medical Imaging},
+    number = {1},
+    publisher = {SPIE},
+    pages = {014507},
+    keywords = {weakly supervised learning, mediastinal lymph nodes, N-staging, deep learning, image-level labels, priors, Lymph nodes, Education and training, Image segmentation, Tumors, Diagnostics, Image registration, Artificial intelligence, Deep learning, Machine learning, Prior knowledge},
+    year = {2026},
+    doi = {10.1117/1.JMI.13.1.014507},
+    URL = {https://doi.org/10.1117/1.JMI.13.1.014507}
 }
 ```
 
